@@ -20,7 +20,7 @@ namespace SalesTaxAppTest
         }
 
         [Test]
-        public void CalculateSaleTax()
+        public void CalculateSalesTax()
         {
             ShoppingCart shoppingCart = new ShoppingCart();
             shoppingCart.AddItem(1, "", "", false, 10, 2, 0.20m);

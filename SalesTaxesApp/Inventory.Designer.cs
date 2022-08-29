@@ -48,7 +48,7 @@
             this.dgInventory.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgInventory.Location = new System.Drawing.Point(12, 240);
             this.dgInventory.Name = "dgInventory";
-            this.dgInventory.Size = new System.Drawing.Size(920, 292);
+            this.dgInventory.Size = new System.Drawing.Size(657, 292);
             this.dgInventory.TabIndex = 1;
             // 
             // txtCode
@@ -155,7 +155,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(944, 544);
+            this.ClientSize = new System.Drawing.Size(681, 544);
             this.Controls.Add(this.btnRemoveProduct);
             this.Controls.Add(this.lblProductType);
             this.Controls.Add(this.chkImportedGood);

@@ -9,6 +9,6 @@ namespace SalesTaxesApp.Model
     
     public class Global
     {
-        private static List<Product> InventoryList;
+        
     }
 }
