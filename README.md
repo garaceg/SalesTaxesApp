@@ -10,7 +10,7 @@ Product - Basic Product Information
 Enums - Holds ProductTypeEnum (Book, Exercise, Electronics, Food and Medical types)
 
 The following windows forms were created.
-CashRegister - Manages Shopping Cart inforamation,
+CashRegister - Manages Shopping Cart information,
 Inventory - Manages Inventory Information,
 Receipt - Displays a cash receipt.
 
