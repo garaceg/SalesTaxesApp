@@ -10,8 +10,8 @@ Product - Basic Product Information
 Enums - Holds ProductTypeEnum (Book, Exercise, Electronics, Food and Medical types)
 
 The following windows forms were created.
-CashRegister - Manages Shopping Cart inforamation.
-Inventory - Manages Inventory Information
+CashRegister - Manages Shopping Cart information,
+Inventory - Manages Inventory Information,
 Receipt - Displays a cash receipt.
 
 There's also a Test project for Unit testing (using NUnit), the basic tests are centered among the functionality for the shopping Cart, the following test cases 
@@ -25,3 +25,5 @@ IsNotTaxExempt,
 IsIimportedGood
 
 The system also allows to manage Inventory, the only functionality missing is in regards taking into consideration Tax-Free states.
+
+The solution was created using Visual Studio 2022 and C#.
