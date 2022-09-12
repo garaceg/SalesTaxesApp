@@ -1,6 +1,6 @@
 # SalesTaxesApp
 
-This is a windows forms application created in order to solve Problem #2 from the proposed exercises (Sales Tax). The application consists of 3 basic forms
+This is a windows forms application, the application consists of 3 basic forms
 in order to simulate a cash register, generate a receipt and manage inventory information.
 
 Among the basic classes created are the following:
@@ -22,8 +22,8 @@ CalculateSalesTax,
 CalculateTotal,
 IsTaxExempt,
 IsNotTaxExempt,
-IsIimportedGood
+IsimportedGood
 
-The system also allows to manage Inventory, the only functionality missing is in regards taking into consideration Tax-Free states.
+Inventory information is prepopulated but can be edited if needed.
 
-The solution was created using Visual Studio 2022 and C#.
+The system also allows to manage Inventory, the solution was created using Visual Studio 2022 and C#.
