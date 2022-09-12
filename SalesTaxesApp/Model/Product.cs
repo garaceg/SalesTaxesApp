@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 using static SalesTaxesApp.Model.Enums;
 
 namespace SalesTaxesApp.Model
-{
+{    
+    /// <summary>
+    /// Product Class
+    /// 10% Sales Tax applies to all product types exect Book, Food and Medical
+    /// 5% extra Tax applies to Imported goods
+    /// </summary>
     public class Product
     {
         public string Code { get; set; }

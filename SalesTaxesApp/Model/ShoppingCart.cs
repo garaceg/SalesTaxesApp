@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace SalesTaxesApp.Model
 {
+    /// <summary>
+    /// ShopingCart Class
+    /// Used for interacting with the Shopping Cart
+    /// Calculates SubTotal, Sales Taxes and Total
+    /// </summary>
     public class ShoppingCart
     {
         public List<CartLineItem> cartLineItems { get; set; }

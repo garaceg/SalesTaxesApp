@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace SalesTaxesApp.Model
 {
+    /// <summary>
+    /// Enum used for the Product Type
+    /// </summary>
     public class Enums
     {
         public enum ProductTypeEnum

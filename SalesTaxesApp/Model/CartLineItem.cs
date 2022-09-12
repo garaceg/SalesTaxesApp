@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace SalesTaxesApp.Model
 {
+    /// <summary>
+    /// CartLineItem Class
+    /// Represents a single record within the Shopping Cart
+    /// </summary>
     public class CartLineItem
     {
         public int LineItem { get; set; }        
